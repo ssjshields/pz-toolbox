@@ -19,7 +19,7 @@ WIP SECTION
 ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
 <br>
 
-# Expanded Server Hosting
+# Expanded Dedicated Server Hosting
 • Backup saves on server boot & shutdown
 
 • Force Steam_appID on launch - (If the server is ran from the Steam library, the incorrect app ID is inserted)
