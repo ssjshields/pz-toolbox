@@ -13,5 +13,7 @@ Designed for Windows, but these functions could be migrated to other platforms.
 
 # Expanded Server Hosting
 • Backup saves on server boot & shutdown
+
 • Force Steam_appID for the server on launch - (If the server is ran from the Steam library, the incorrect app ID is inserted which bricks the server if mods are enabled)
+
 • CMD window now has a title: "Project Zomboid Dedicated Server" - (Previously "CMD.exe")
