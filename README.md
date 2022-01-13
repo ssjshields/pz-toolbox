@@ -12,6 +12,10 @@ Designed for Windows, but these functions could be migrated to other platforms.
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
 
+# Resolve client-side mod mismatches
+Instead of fumbling around your filesystem in frustration when you see this: ![mod-mismatch-example]https://i.ibb.co/QnpsmHh/mismatchexample.png
+
+
 # Expanded Server Hosting
 • Backup saves on server boot & shutdown
 
