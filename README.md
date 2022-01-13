@@ -44,7 +44,7 @@ WIP SECTION
 
 # FAQ
 ### Installation and use
-Unzip the folder into your <b>"\Steam\"<b> directory and run the desired tool. Logs are stored in <b>"\Steam\logs\pz_modresults.txt"<b>.
+Unzip the folder into your <b>"\Steam\"</b> directory and run the desired tool. Logs are stored in <b>"\Steam\logs\pz_modresults.txt"</b>.
 
 ### Is backing up saves considered *cheating*?
 From a moral standpoint, yes. Any form of rolling back can be viewed as "cheating" the game. To each their own.
