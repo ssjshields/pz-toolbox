@@ -13,7 +13,11 @@ Designed for Windows, but these functions could be migrated to other platforms.
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
 
 # Resolve client-side mod mismatches
-Instead of fumbling around your filesystem in frustration when you see this: ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
+Instead of fumbling around your filesystem in frustration when you see this: 
+
+![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
+
+You can now run a simple script that will automatically detect the failing mod's ID from your logs, remove the mod in question, and open the Workshop page for the mod prompting you to re-subscribe.
 
 
 # Expanded Server Hosting
