@@ -19,6 +19,8 @@ THIS REPO IS A WIP - CONTENT SUBJECT TO CHANGE
 # Resolve Client-Side Mod Mismatches
 WIP SECTION
 
+<b>For players:</b>
+
 ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
 
 Using a simple script I have created, you can now fix mismatching mods in seconds. No more fumbling around the filesystem in frustration searching for what mod ID is failing.
@@ -34,13 +36,17 @@ Dedicated servers typically grab updates each time they are launched. They also 
 # Expanded Dedicated Server Hosting
 WIP SECTION
 
+<b>For hosts:</b>
+
 • Backup saves on server boot & shutdown
+
+• Option to restart server after the `quit` command
 
 • Force Steam_appID on launch - (If the server is ran from the Steam library, the incorrect app ID is inserted)
 
 • CMD window now has a title: "Project Zomboid Dedicated Server" - (Previously "CMD.exe")
 
-• Schedule automated custom messages - (WIP, not included currently)
+• Schedule custom messages and restarts - (WIP, not included currently)
 
 <br>
 
@@ -48,6 +54,12 @@ WIP SECTION
 ### Installation and use:
 Unzip the archive into your <b>"\Steam\"</b> directory and run the desired tool. Logs are stored in <b>"\Steam\logs\pz_*.txt"</b>.
 
+<br>
+
 ### Is backing up saves considered *cheating*?
 From a moral standpoint, yes. Any form of rolling back can be viewed as "cheating" the game. To each their own.
 
+<br>
+
+### Will these tools work with servers from a hosting provider?
+Yes and no. Ideally you would use the feature set provided in your dashboard, many sites offer automated backups & restarts, scheduled messages, and script execution- but you pay by the slot most of the time.
