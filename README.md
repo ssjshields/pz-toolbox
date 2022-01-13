@@ -3,6 +3,8 @@ A collection of lightweight tools which can be utilized to make playing & managi
 
 Designed for Windows, but these functions could be migrated to other platforms.
 
+THIS REPO IS A WIP - CONTENT SUBJECT TO CHANGE
+
 ![pz-logo](https://i.ibb.co/nzzbB4f/pztoolbox.png)
 
 # Features
