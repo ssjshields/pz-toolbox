@@ -1,7 +1,7 @@
 # Project Zomboid Toolbox
 A collection of lightweight tools which can be utilized to make playing & managing Project Zomboid easier.
 
-Designed for Windows, but could be migrated to other platforms.
+Designed for Windows, but these functions could be migrated to other platforms.
 
 # Features
 • Fix mod mismatches quickly - (Failed to join server error)
