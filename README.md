@@ -24,7 +24,7 @@ Using a simple script I have created, you can now fix mismatching mods in second
 
 There are several ways documented which claim that mismatches can be fixed by doing XYZ- This script doing all of that with minimal input, and doesn't make you re-download or verify unnecessary files.
 
-Servers should automatically restart at regular intervals to avoid mismatches.
+Servers should restart at regular intervals to avoid mismatches.
 <br>
 
 # Expanded Dedicated Server Hosting
