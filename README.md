@@ -13,7 +13,7 @@ Designed for Windows, but these functions could be migrated to other platforms.
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
 <br>
 
-# Resolve client-side mod mismatches
+# Resolve Client-Side Mod Mismatches
 
 ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
 <br>
