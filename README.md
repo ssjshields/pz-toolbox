@@ -5,7 +5,7 @@ Designed for Windows, but these functions could be migrated to other platforms.
 
 ![pz-logo](https://i.ibb.co/nzzbB4f/pztoolbox.png)
 
-\
+<br>
 
 # Features
 • Fix mod mismatches quickly - (Failed to join server error)
