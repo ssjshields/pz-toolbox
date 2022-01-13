@@ -11,6 +11,7 @@ Designed for Windows, but these functions could be migrated to other platforms.
 • Automatic SP/ MP save backups - (SP backups are accessible from the main menu)
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
+
 <br>
 
 # Resolve Client-Side Mod Mismatches
@@ -25,7 +26,6 @@ Mod mismatches occur for several reasons, the most common being the server you a
 There are several ways documented which claim that mismatches can be fixed by doing XYZ- This script doing all of that with minimal input, and doesn't make you re-download or verify unnecessary files.
 
 Dedicated servers typically grab updates each time they are launched. They also cannot update while they're live, much like the game itself cannot update while it is running. Servers should restart at regular intervals to avoid mismatches.
-
 <br>
 
 # Expanded Dedicated Server Hosting
