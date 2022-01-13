@@ -14,6 +14,7 @@ Designed for Windows, but these functions could be migrated to other platforms.
 <br>
 
 # Resolve Client-Side Mod Mismatches
+WIP SECTION
 
 ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
 <br>
