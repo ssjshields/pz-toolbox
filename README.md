@@ -49,17 +49,3 @@ WIP SECTION
 • Schedule custom messages and restarts - (WIP, not included currently)
 
 <br>
-
-# FAQ
-### Installation and use:
-Unzip the archive into your <b>"\Steam\"</b> directory and run the desired tool. Logs are stored in <b>"\Steam\logs\pz_*.txt"</b>.
-
-<br>
-
-### Is backing up saves considered *cheating*?
-From a moral standpoint, yes. Any form of rolling back can be viewed as "cheating" the game. To each their own.
-
-<br>
-
-### Will these tools work with servers from a hosting provider?
-Yes and no. Ideally you would use the feature set provided in your dashboard, many sites offer automated backups & restarts, scheduled messages, and script execution- but you pay by the slot most of the time.
