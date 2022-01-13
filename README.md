@@ -11,13 +11,13 @@ Designed for Windows, but these functions could be migrated to other platforms.
 • Automatic SP/ MP save backups - (SP backups are accessible from the main menu)
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
-
 <br>
+
 # Resolve client-side mod mismatches
 
 ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
-
 <br>
+
 # Expanded Server Hosting
 • Backup saves on server boot & shutdown
 
