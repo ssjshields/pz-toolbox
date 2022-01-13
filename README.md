@@ -27,7 +27,6 @@ There are several documented methods which claim that mismatches can be fixed by
 
 Dedicated servers typically grab updates each time they are launched. They also cannot update while they're live, much like the game itself cannot update while it is running. Servers should restart at regular intervals to avoid mismatches.
 
-
 <br>
 
 # Expanded Dedicated Server Hosting
@@ -40,6 +39,7 @@ WIP SECTION
 • CMD window now has a title: "Project Zomboid Dedicated Server" - (Previously "CMD.exe")
 
 • Schedule automated custom messages - (WIP, not included currently)
+<br>
 
 # FAQ
 ### Installation and use
