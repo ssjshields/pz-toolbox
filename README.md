@@ -43,7 +43,7 @@ WIP SECTION
 <br>
 
 # FAQ
-### Installation and use
+### Installation and use:
 Unzip the folder into your <b>"\Steam\"</b> directory and run the desired tool. Logs are stored in <b>"\Steam\logs\pz_modresults.txt"</b>.
 
 ### Is backing up saves considered *cheating*?
