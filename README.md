@@ -39,6 +39,7 @@ WIP SECTION
 • CMD window now has a title: "Project Zomboid Dedicated Server" - (Previously "CMD.exe")
 
 • Schedule automated custom messages - (WIP, not included currently)
+
 <br>
 
 # FAQ
