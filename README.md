@@ -27,7 +27,6 @@ There are several documented methods which claim that mismatches can be fixed by
 
 Dedicated servers typically grab updates each time they are launched. They also cannot update while they're live, much like the game itself cannot update while it is running. Servers should restart at regular intervals to avoid mismatches.
 
-Drop the .bat into your "\Steam\" folder and run the tool. Logs are stored in "\Steam\logs\".
 
 <br>
 
@@ -41,3 +40,11 @@ WIP SECTION
 • CMD window now has a title: "Project Zomboid Dedicated Server" - (Previously "CMD.exe")
 
 • Schedule automated custom messages - (WIP, not included currently)
+
+# FAQ
+### Installation and use
+Unzip the folder into your "\Steam\" directory and run the desired tool. Logs are stored in "\Steam\logs\".
+
+### Is backing up saves considered *cheating*?
+From a moral standpoint, yes. Any form of rolling back can be viewed as "cheating" the game. To each their own.
+
