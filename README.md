@@ -19,9 +19,9 @@ WIP SECTION
 
 ![mod-mismatch-example](https://i.ibb.co/4MrjnP1/mismatchexample-S.png)
 
-Using a simple script I have created, you can now fix mismatching mods in seconds. No more fumbling around in the filesystem searching for what mod ID is failing.
+Using a simple script I have created, you can now fix mismatching mods in seconds. No more fumbling around in the filesystem in frustration searching for what mod ID is failing.
 
-Mod mismatches occur for several reasons, the most common being the server you are trying to join has the latest version of a mod, and your client hasn't fetched that update from the Workshop yet OR vice-versa. 
+Mod mismatches occur for several reasons, the most common being the server you are trying to join has the latest version of a mod and your client hasn't fetched that update from the Workshop yet OR vice-versa. 
 
 There are several ways documented which claim that mismatches can be fixed by doing XYZ- This script doing all of that with minimal input, and doesn't make you re-download or verify unnecessary files.
 
