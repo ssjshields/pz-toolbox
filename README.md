@@ -53,4 +53,4 @@ WIP SECTION
 
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W15DHAZ) 
+# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W15DHAZ) 
