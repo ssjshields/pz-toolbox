@@ -10,9 +10,12 @@ THIS REPO IS A WIP - CONTENT SUBJECT TO CHANGE
 # Features
 • Fix mod mismatches quickly - (Failed to join server error)
 
+• Fetch and upload error logs - (Displays the filename and directory for the user)
+
 • Automatic SP/ MP save backups - (SP backups are accessible from the main menu)
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
+
 
 <br>
 
