@@ -1,9 +1,8 @@
 ::script by nurver#7626
+:start
 @echo off
 TITLE: Project Zomboid - Fix Mods - Client
 MODE 140,25
-
-:start
 type C:\Users\%username%\Zomboid\Logs\*.txt | find /i "Fail ID=" >> ".\logs\pz_mod_results_log.txt"
 cls
 IF errorlevel 1 (echo There doesn't appear to be any failing mods. && GOTO removeanyways) ELSE (GOTO failinfo)
