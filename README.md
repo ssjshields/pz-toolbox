@@ -32,7 +32,7 @@ THESE TOOLS ARE WIP - THEY MAY NOT FUNCTION AS EXPECTED (e.g., logs doubling up)
 
 #
 
-[(https://i.ibb.co/vzyTkSn/pztoolboxwiki.png)](https://github.com/ssjshields/pz-toolbox/wiki)
+[!wiki][(https://i.ibb.co/vzyTkSn/pztoolboxwiki.png)](https://github.com/ssjshields/pz-toolbox/wiki)
 
 
 <br>
