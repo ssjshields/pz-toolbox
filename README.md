@@ -10,7 +10,9 @@ THIS REPO IS A WIP - CONTENT SUBJECT TO CHANGE
 # Features
 <b>For players:</b>
 
-• Fix mod mismatches quickly - (Failed to join server error)
+• Resolve mod mismatches quickly - (Failed to join server error)
+
+• Repair mods with missing files - (File not found on client/ server - WIP; I NEED LOGS WITH THESE ERRORS!!!)
 
 • Fetch and upload error logs - (Displays the filename and directory for the user)
 
@@ -18,10 +20,12 @@ THIS REPO IS A WIP - CONTENT SUBJECT TO CHANGE
 
 
 <b>For hosts:</b>
+• Repair mods with missing files - (File not found on client/ server - WIP; I NEED LOGS WITH THESE ERRORS!!!)
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
 
 • Automatic MP save backups - (saves are accessible from the main menu)
+
 
 #
 
