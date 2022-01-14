@@ -10,7 +10,7 @@ IF errorlevel 1 (echo There doesn't appear to be any failing mods. && GOTO remov
 
 :removeanyways
 echo.
-echo [%date% %time% ERROR:] No failing mods found. >> ".\logs\pz_mod_removal_log.txt"
+echo [%date% %time% ERROR] No failing mods found. >> ".\logs\pz_mod_removal_log.txt"
 SET /p var3=Continue anyways? [Y/N]: 
 echo.
 ::IF /I "%var3%" NEQ "Y" (GOTO END) ELSE (cls && GOTO boot)
@@ -61,7 +61,7 @@ cls
 GOTO start
 
 :modnotfound
-echo [%date% %time% ERROR:] "%var%" not found. >> ".\logs\pz_mod_removal_log.txt"
+echo [%date% %time% ERROR] "%var%" not found. >> ".\logs\pz_mod_removal_log.txt"
 cls
 echo %var% not found. Check ID again.
 echo.
