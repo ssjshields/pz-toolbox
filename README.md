@@ -27,7 +27,7 @@ THESE TOOLS ARE WIP - THEY MAY NOT FUNCTION AS EXPECTED (e.g., logs doubling up)
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
 
-• Automatic MP save backups - (saves are accessible from the main menu)
+• Automatic MP save backups
 
 
 #
