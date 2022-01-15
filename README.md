@@ -9,6 +9,8 @@ THESE TOOLS ARE WIP - THEY MAY NOT FUNCTION AS EXPECTED (e.g., logs doubling up)
 
 ![pz-logo](https://i.ibb.co/nzzbB4f/pztoolbox.png)
 
+[![wiki](https://i.ibb.co/3yx2pvy/pztoolboxwiki-M.png)](https://github.com/ssjshields/pz-toolbox/wiki) 
+
 # Features
 <b>For players:</b>
 
@@ -33,5 +35,3 @@ THESE TOOLS ARE WIP - THEY MAY NOT FUNCTION AS EXPECTED (e.g., logs doubling up)
 
 #
 
-
-[![wiki](https://i.ibb.co/3yx2pvy/pztoolboxwiki-M.png)](https://github.com/ssjshields/pz-toolbox/wiki) 
