@@ -1,7 +1,7 @@
 ::script by nurver#7626
 :start
 @echo off
-TITLE: Project Zomboid - Fix Mods - Client
+TITLE: Project Zomboid - Repair Client Mods
 MODE 140,25
 type C:\Users\%username%\Zomboid\Logs\*.txt | find /i "Fail ID=" >> ".\logs\pz_mod_results_log.txt"
 cls
