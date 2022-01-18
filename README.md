@@ -19,7 +19,7 @@ Designed for Windows and Project Zomboid dedicated servers, but these functions 
 
 <b>For hosts:</b>
 
-• QOL additions to the dedicated server files
+• QOL additions to existing dedicated server files
 
 • Automatic MP save backups
 
