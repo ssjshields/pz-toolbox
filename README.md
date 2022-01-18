@@ -1,6 +1,6 @@
 # Project Zomboid Toolbox
 
-🚧 This repo is under construction. Content is subject to change.
+🚧 This repo is under construction. Content is subject to change and is not final.
 
 ![pz-logo](https://i.ibb.co/nzzbB4f/pztoolbox.png)
 
