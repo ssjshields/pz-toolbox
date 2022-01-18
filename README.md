@@ -27,5 +27,3 @@ A collection of lightweight tools which can be utilized to make playing & managi
 #
 
 [![wiki](https://i.ibb.co/3yx2pvy/pztoolboxwiki-M.png)](https://github.com/ssjshields/pz-toolbox/wiki) 
-
-<br>
