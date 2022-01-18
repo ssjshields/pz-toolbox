@@ -15,17 +15,17 @@ THESE TOOLS ARE WIP - THEY MAY NOT FUNCTION AS EXPECTED (e.g., logs doubling up)
 
 • Resolve mod mismatches quickly - (Failed to join server error)
 
-• Repair mods with missing files - (File not found on client/ server - WIP; I NEED LOGS WITH THESE ERRORS!!!)
+• Repair mods with missing files - (Force remove content)
 
 • Fetch and upload error logs - (Displays the filename and directory for the user)
 
-• Automatic SP save backups - (saves are accessible from the main menu)
+• Automatic SP save backups - (Saves are accessible from the main menu)
 
 <br>
 
 <b>For hosts:</b>
 
-• Repair mods with missing files - (File not found on client/ server - WIP; I NEED LOGS WITH THESE ERRORS!!!)
+• Repair mods with missing files - (Force remove content)
 
 • QOL additions to the dedicated server files - (Modified StartServer64.bat)
 
