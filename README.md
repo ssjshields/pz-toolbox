@@ -3,10 +3,6 @@ A collection of lightweight tools which can be utilized to make playing & managi
 
 Designed for Windows and Project Zomboid dedicated servers, but these functions could be migrated to other platforms.
 
-THIS REPO IS A WIP - CONTENT SUBJECT TO CHANGE
-
-THESE TOOLS ARE WIP - THEY MAY NOT FUNCTION AS EXPECTED (e.g., logs doubling up)
-
 ![pz-logo](https://i.ibb.co/nzzbB4f/pztoolbox.png)
 
 
