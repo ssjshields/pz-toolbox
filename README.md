@@ -18,7 +18,7 @@
 
 • QOL additions to existing dedicated server files
 
-• Schedule custom messages and restarts
+• Schedule custom messages and restarts (WIP)
 
 • Automatic MP save backups
 
