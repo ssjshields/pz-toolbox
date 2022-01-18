@@ -3,7 +3,7 @@
 ![pz-logo](https://i.ibb.co/nzzbB4f/pztoolbox.png)
 
 
-# Features
+## Features
 <b>*For everyone:*</b>
 
 • Resolve mod mismatches quickly 
