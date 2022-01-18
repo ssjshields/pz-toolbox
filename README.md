@@ -12,7 +12,7 @@
 
 • Fetch and upload error logs
 
-• Automatic SP save backups
+• Automatic SP save backups (WIP)
 
 <br>
 
@@ -22,7 +22,7 @@
 
 • Schedule custom messages and restarts (WIP)
 
-• Automatic MP save backups
+• Automatic MP save backups (WIP)
 
 
 #
