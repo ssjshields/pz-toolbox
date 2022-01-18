@@ -21,6 +21,8 @@ Designed for Windows and Project Zomboid dedicated servers, but these functions 
 
 • QOL additions to existing dedicated server files
 
+• Schedule custom messages and restarts
+
 • Automatic MP save backups
 
 
