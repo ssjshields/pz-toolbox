@@ -30,4 +30,3 @@ A collection of lightweight tools which can be utilized to make playing & managi
 
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W15DHAZ)
