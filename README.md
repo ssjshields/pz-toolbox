@@ -5,7 +5,7 @@ A collection of lightweight tools which can be utilized to make playing & managi
 
 
 # Features
-<b>For everyone:</b>
+<b>*For everyone:*</b>
 
 • Resolve mod mismatches quickly 
 
@@ -15,7 +15,7 @@ A collection of lightweight tools which can be utilized to make playing & managi
 
 <br>
 
-<b>For hosts:</b>
+<b>*For hosts:*</b>
 
 • QOL additions to existing dedicated server files
 
