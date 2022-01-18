@@ -7,23 +7,19 @@ Designed for Windows and Project Zomboid dedicated servers, but these functions 
 
 
 # Features
-<b>For players:</b>
+<b>For everyone:</b>
 
-• Resolve mod mismatches quickly - (Failed to join server error)
+• Resolve mod mismatches quickly 
 
-• Repair mods with missing files - (Force remove content)
+• Fetch and upload error logs
 
-• Fetch and upload error logs - (Displays the filename and directory for the user)
-
-• Automatic SP save backups - (Saves are accessible from the main menu)
+• Automatic SP save backups
 
 <br>
 
 <b>For hosts:</b>
 
-• Repair mods with missing files - (Force remove content)
-
-• QOL additions to the dedicated server files - (Modified StartServer64.bat)
+• QOL additions to the dedicated server files
 
 • Automatic MP save backups
 
